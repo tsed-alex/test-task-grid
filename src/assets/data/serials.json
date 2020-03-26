@@ -1,0 +1,252 @@
+[
+  {
+    "name": "The Terror",
+    "season": 1,
+    "network": "AMC",
+    "premiere": "20.10.2019",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 2,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2019",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "Preacher",
+    "season": 3,
+    "network": "AMC",
+    "premiere": "01.01.2019",
+    "genres": [
+      "dark comedy",
+      "drama"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 4,
+    "network": "AMC",
+    "premiere": "20.10.2018",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 5,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2018",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 6,
+    "network": "AMC",
+    "premiere": "20.10.2019",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 7,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2019",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "Preacher",
+    "season": 8,
+    "network": "AMC",
+    "premiere": "01.01.2019",
+    "genres": [
+      "dark comedy",
+      "drama"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 9,
+    "network": "AMC",
+    "premiere": "20.10.2018",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 10,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2018",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 11,
+    "network": "AMC",
+    "premiere": "20.10.2019",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 12,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2019",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "Preacher",
+    "season": 13,
+    "network": "AMC",
+    "premiere": "01.01.2019",
+    "genres": [
+      "dark comedy",
+      "drama"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 14,
+    "network": "AMC",
+    "premiere": "20.10.2018",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 3,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2018",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 3,
+    "network": "AMC",
+    "premiere": "20.10.2019",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 4,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2019",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "Preacher",
+    "season": 5,
+    "network": "AMC",
+    "premiere": "01.01.2019",
+    "genres": [
+      "dark comedy",
+      "drama"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 2,
+    "network": "AMC",
+    "premiere": "20.10.2018",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 3,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2018",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 3,
+    "network": "AMC",
+    "premiere": "20.10.2019",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 4,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2019",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  },
+  {
+    "name": "Preacher",
+    "season": 5,
+    "network": "AMC",
+    "premiere": "01.01.2019",
+    "genres": [
+      "dark comedy",
+      "drama"
+    ]
+  },
+  {
+    "name": "The Terror",
+    "season": 2,
+    "network": "AMC",
+    "premiere": "20.10.2018",
+    "genres": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "name": "Better Call Soul",
+    "season": 3,
+    "network": "AMC, Netflix",
+    "premiere": "05.11.2018",
+    "genres": [
+      "crime",
+      "tragedy"
+    ]
+  }
+]

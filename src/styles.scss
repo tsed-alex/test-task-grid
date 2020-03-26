@@ -1,0 +1,10 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+/* You can add global styles to this file, and also import other style files */
+body{
+  background: rgb(226,229,248);
+  background: linear-gradient(137deg, rgba(226,229,248,1) 0%, rgba(247,236,251,0.9884103299522934) 100%);
+}
+
+.mat-sort-header-arrow{
+  color: white;
+}
