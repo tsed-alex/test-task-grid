@@ -48,12 +48,12 @@ export class SerialsTableComponent implements OnInit, AfterViewInit {
     return result;
   }
 
-  public ngOnInit() {
+  public ngOnInit(): void {
     this.dataSource = new SerialsDataSource(this._serialTableService);
     this.dataSource.loadSerials(this.filters);
   }
 
-  public ngAfterViewInit() {
+  public ngAfterViewInit(): void {
     fromEvent(this.input.nativeElement, 'keyup')
             .pipe(
                 debounceTime(150),
@@ -70,18 +70,18 @@ export class SerialsTableComponent implements OnInit, AfterViewInit {
             .subscribe();
   }
 
-  public onChangePage(event: PageEvent) {
+  public onChangePage(event: PageEvent): void {
     this.dataSource.loadSerials(this.filters, event.pageIndex, event.pageSize);
   }
-  public onChangeGenre(event: MatSelectChange) {
+  public onChangeGenre(event: MatSelectChange): void {
     this.filters.genre = event.value;
     this.dataSource.loadSerials( this.filters);
   }
-  public  onChangePremYear(event: MatSelectChange) {
+  public  onChangePremYear(event: MatSelectChange): void {
     this.filters.year = event.value;
     this.dataSource.loadSerials( this.filters);
   }
-  public sortData(event: Sort) {
+  public sortData(event: Sort): void {
     this.filters.sort = event.direction;
     this.dataSource.loadSerials( this.filters);
   }
